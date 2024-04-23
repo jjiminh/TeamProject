@@ -18,8 +18,10 @@
      * Member : 주원&nbsp;&nbsp;&nbsp;<a href="https://github.com/jjiminh/TeamProject"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=#white"/></a>
      * Member : 지민&nbsp;&nbsp;&nbsp;<a href="https://github.com/jjiminh/TeamProject"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=#white"/></a>
   * 목차
-     * 개발 환경
-     * 구현한 기능들
+     * [개발 환경](#개발-환경)
+
+       
+     * [구현한 기능들](#구현한-기능들)
 
 ***
 
@@ -118,7 +120,9 @@
 
 ## DB 구성
 
-   ![erd](./projectImg/테이블 ERD.png)
+   ![erd](./projectImg/tableERD.png)
+
+***   
      
 ## 아쉬운 점
         
