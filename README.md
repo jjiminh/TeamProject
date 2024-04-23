@@ -27,6 +27,10 @@
    * 개발 언어
      
        JAVA / JavaScript / CSS / jQuery / JSP / Servlet MVC / HTML
+
+       Oracle SQL Developer
+
+       Tomcat 9.0
    * 사용 툴  
 
        eclipse, github
@@ -48,20 +52,23 @@
     
          <https://openweathermap.org/api>
        
-   * DB
-      
-    
 ***
 
 ## 구현한 기능들
   * 메인화면
 
+     ![메인화면](./projectImg/main.png)
+
 ***
    
   * 회원정보 
     * 회원가입
+   
+      
     * 로그인
        * 네이버 로그인
+     
+         
        * 카카오 로그인
     * 마이페이지
        * 회원 정보 수정
@@ -107,7 +114,11 @@
    * 네이버 검색 API
    * 날씨 정보 API
 
-***     
+***
+
+## DB 구성
+
+   ![erd](./projectImg/테이블 ERD.png)
      
 ## 아쉬운 점
         
