@@ -2,7 +2,7 @@
 
 ***
 
-## :sparkles:개요
+# :sparkles:개요
   * 프로젝트명
     
     EveryOne 쇼핑몰
@@ -25,9 +25,9 @@
 
 ***
 
-## :sunny:개발 환경
+# :sunny:개발 환경
 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" />  VIEW 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="1.5%" />  VIEW 
     
    <img src="https://img.shields.io/badge/JSP-007524?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 
@@ -35,21 +35,21 @@
      
    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">   
      
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> Server
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="1.5%" /> Server
      
    <img src="https://img.shields.io/badge/Tomcat9-0054FF?style=for-the-badge&logo=apachetomcat&logoColor=white"> 
   
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="2%" />  개발 환경
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="1.5%" />  개발 환경
      
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
    <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=#white"/> 
       
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Shooting Star" width="2%" /> 개발 언어
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Shooting Star" width="1.5%" /> 개발 언어
      
    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/servlet-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"> 
    
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="2%" /> 사용 API
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="1.5%" /> 사용 API
       
    * 네이버 로그인 API
      
@@ -69,7 +69,7 @@
            
 ***
 
-## :hatched_chick:구현한 기능들
+# :hatched_chick:구현한 기능들
   * 메인화면
 
      ![메인화면](./projectImg/main.png)
@@ -114,7 +114,7 @@
 
 ***
 
-## :shaved_ice:DB 구성
+# :shaved_ice:DB 구성
 
    ![erd](./projectImg/tableERD.png)
 
