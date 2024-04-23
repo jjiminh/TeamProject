@@ -12,11 +12,11 @@
      2024.04.01 ~ 2024.04.
     
   * 팀원
-     * Leader : 원기()
-     * Member : 민진()
-     * Member : 정아()
-     * Member : 주원()
-     * Member : 지민()
+     * Leader : 원기&nbsp;&nbsp;&nbsp;<a href="https://github.com/jjiminh/TeamProject"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=#white"/></a>
+     * Member : 민진&nbsp;&nbsp;&nbsp;<a href="https://github.com/jjiminh/TeamProject"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=#white"/></a>
+     * Member : 정아&nbsp;&nbsp;&nbsp;<a href="https://github.com/jjiminh/TeamProject"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=#white"/></a>
+     * Member : 주원&nbsp;&nbsp;&nbsp;<a href="https://github.com/jjiminh/TeamProject"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=#white"/></a>
+     * Member : 지민&nbsp;&nbsp;&nbsp;<a href="https://github.com/jjiminh/TeamProject"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=#white"/></a>
   * 목차
      * 개발 환경
      * 구현한 기능들
@@ -25,8 +25,31 @@
 
 ## 개발 환경
    * 개발 언어
+     
+       JAVA / JavaScript / CSS / jQuery / JSP / Servlet MVC / HTML
+   * 사용 툴  
+
+       eclipse, github
    * 사용 API
+
+       * 네이버 로그인 API
+
+         <https://developers.naver.com/products/login/api/api.md>
+       * 카카오 로그인 API
+    
+         <https://developers.kakao.com/docs/latest/ko/kakaologin/common>
+       * 아임포트 API (카카오 결제)
+
+         <https://developers.portone.io/api/rest-v1/pg>
+       * 네이버 검색 API
+    
+         <https://developers.naver.com/products/service-api/search/search.md>
+       * 날씨 정보 API
+    
+         <https://openweathermap.org/api>
+       
    * DB
+      
     
 ***
 
