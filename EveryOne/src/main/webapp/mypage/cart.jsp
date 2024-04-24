@@ -160,7 +160,7 @@
     var c_pmid = document.getElementById("c_pmid").value; 
 
     var IMP = window.IMP; 
-    IMP.init("imp61225440");
+    IMP.init("imp아임포트키");
     var today = new Date();   
     var hours = today.getHours(); // 시
     var minutes = today.getMinutes();  // 분
