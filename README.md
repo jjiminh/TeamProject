@@ -123,6 +123,8 @@
 ## :carousel_horse:아쉬운 점
 <details>
   <summary> :pencil2:Wrap Up</summary>
-  ![wrapUp1](./projectImg/)
+  <img src="./projectImg/wrapUp1.png">
+  <img src="./projectImg/wrapUp2.png">
+  <img src="./projectImg/wrapUp3.png">
 </details>        
 
