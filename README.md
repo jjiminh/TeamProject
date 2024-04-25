@@ -18,13 +18,13 @@
      * Member : 주원(<https://github.com/manabaha>)
      * Member : 지민(<https://github.com/jjiminh>)
   * 목차
-     * [개발 환경](개발-환경)
+     * [개발 환경](#sunny개발-환경)
 
-     * [구현한 기능들](구현한-기능들)
+     * [구현한 기능들](#hatched_chick구현한-기능들)
 
-     * [DB 구성](DB-구성)
+     * [DB 구성](#shaved_iceDB-구성)
    
-     * [아쉬운 점](아쉬운-점)  
+     * [아쉬운 점](#carousel_horse아쉬운-점)  
 
 ***
 
