@@ -119,7 +119,10 @@
    ![erd](./projectImg/tableERD.png)
 
 ***   
-     
+
 ## :carousel_horse:아쉬운 점
-        
+<details>
+  <summary> :pencil2:Wrap Up</summary>
+  ![wrapUp1](./projectImg/)
+</details>        
 
